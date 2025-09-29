@@ -1,4 +1,4 @@
 package com.Corey.QuizMe.models;
 
-public class user {
+public class Lesson {
 }
